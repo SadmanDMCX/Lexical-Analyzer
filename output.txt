@@ -1,0 +1,6 @@
+Keywords:  void main if then else int print endif 
+Operators:  > = - + * / 
+Special Symbols:  , { ( ) ; } 
+Constants:  1 2 3 6 5 99 -25 
+Variables:  a[3] t1 t2 t3 
+Comments:   this is a comment on 2 lines  
